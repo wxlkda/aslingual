@@ -51,7 +51,7 @@ if results.multi_hand_landmarks:
         cv2.putText(frame, gesture, (10, 60), FONT, FONT_SCALE, THICKNESS, cv2.LINE_AA)
 ```
 
-### Running ASLingual Locally
+### Running Locally
 
 1. **Clone the repository**:
 
